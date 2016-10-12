@@ -7,11 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "json_rspec_matcher"
   spec.version       = JsonRspecMatcher::VERSION
   spec.authors       = ["Lucas Polonio"]
-  spec.email         = ["lucas.polonio@thescore.com"]
+  spec.email         = ["polonio.lucas@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{JSON matchers for RSpec}
+  spec.homepage      = "TODO: Put your gem's website or public repo URL here.://github.com/lucaspolonio/json_rspec_matcher"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
